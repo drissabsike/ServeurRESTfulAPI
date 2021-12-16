@@ -15,7 +15,6 @@ import javax.transaction.Transactional;
 
 import static javax.transaction.Transactional.TxType.SUPPORTS;
 
-
 @Transactional(SUPPORTS)
 public class JsonAPI {
 

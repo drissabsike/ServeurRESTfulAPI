@@ -1,0 +1,8 @@
+
+N	java:S1064"9Replace this use of System.out or System.err by a logger.(µˆœÑ
+S	java:S1065"9Replace this use of System.out or System.err by a logger.(®ýáëûÿÿÿÿ
+N	java:S1066"9Replace this use of System.out or System.err by a logger.(µÆ»º
+J
+java:S1128"/Remove this unused import 'org.json.JSONArray'.(¬¸Ê’üÿÿÿÿ
+Q
+java:S1128"6Remove this unused import 'javax.ws.rs.core.Response'.(ˆäÐæüÿÿÿÿ
